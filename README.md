@@ -1,7 +1,7 @@
 # laptop-price-predictor
 
 - The project contains a ML laptop price predictor python app deployed as web app using streamlit.
-- The has very fascinating r2 score of about 0.89 and is implemented using xgboost.
+- The project has very fascinating r2 score of about 0.89 and is implemented using xgboost.
 - The app provides an very simple and clean UI that allows the users to enter their laptop configurations according to their requirments.
 - The model is trained using a very recent dataset so that the user gets an exact idea of the price according to their configurations in recent times.
 -  It predicts the approximately accurate price of the laptop according to configurations so, that the user gets a value for money PC in any type of bugets whether it is low, mid range, premium range.
